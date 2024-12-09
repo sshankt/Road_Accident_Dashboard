@@ -53,5 +53,6 @@ We welcome contributions to enhance the dashboard! Feel free to submit a pull re
 
 💻 Connect with Us
 For questions, feedback, or collaboration opportunities, reach out at:
-Linkedin : https://www.linkedin.com/in/sshankt/
+
+Linkedin: https://www.linkedin.com/in/sshankt/
 
